@@ -1,2 +1,2 @@
 # escape-game
- python game
+ python game using paygame zero
